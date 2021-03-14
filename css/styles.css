@@ -180,6 +180,8 @@ body{
   text-align:center;
 }
 
+
+
 @media (max-width:767px) {
   .footer-clean .item {
     text-align:center;
@@ -193,7 +195,7 @@ body{
   }
 }
 
-.footer-clean .item.social > a {
+/*.footer-clean .item.social > a {
   font-size:24px;
   width:40px;
   height:40px;
@@ -204,9 +206,9 @@ body{
   border:1px solid #ccc;
   margin-left:1px;
   margin-top:10px;
-  color:inherit;
-  opacity:0.75;
-}
+  color:black;
+  opacity:1.0;
+}*/
 
 .footer-clean .item.social > a:hover {
   opacity:0.9;
@@ -229,4 +231,7 @@ body{
   margin-bottom:0;
   font-size:13px;
   opacity:0.6;
+  font-weight: bold;
+  color:#205950;
+  text-shadow: 1px 2px 4px black;
 }
