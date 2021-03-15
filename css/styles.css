@@ -79,7 +79,7 @@ body{
   border: 2px solid pink;
 }
 .container .jumbotron {
-    background: url('../pictures/shop6.jpg') no-repeat;
+    background: url('../pictures/shop3.jpg') no-repeat;
     height: 562px;
     background-position: center;
   }
@@ -127,7 +127,7 @@ body{
   background-position: center;
   }
   #Pony-tile {
-  background: url('../pictures/pony1.jfif') no-repeat;
+  background: url('../pictures/pony4.jpg') no-repeat;
   background-position: center;
   }
   #Upart-tile {
